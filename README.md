@@ -59,7 +59,7 @@ Telegram-бот, который помогает подготовить текс
 ### Linux / macOS
 
 ```sh
-git clone https://github.com/burmaldun6-ship-it/1.git br-complaint-bot
+git clone https://github.com/burmaldun6-ship-it/br-complaint-bot.git br-complaint-bot
 cd br-complaint-bot
 python3 -m venv .venv
 . .venv/bin/activate
@@ -84,7 +84,7 @@ python bot.py
 ### Windows / PowerShell
 
 ```powershell
-git clone https://github.com/burmaldun6-ship-it/1.git br-complaint-bot
+git clone https://github.com/burmaldun6-ship-it/br-complaint-bot.git br-complaint-bot
 cd br-complaint-bot
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
